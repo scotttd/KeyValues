@@ -21,6 +21,13 @@ There seems to be a resurgence of non-sql data structures being used.  Whether t
 </menu>
 ```
 
+## Non-SQL query tools
+
+What are the different query tools avalable to query and manupulate non-SQL style data?
+
+* [XPath](https://en.wikipedia.org/wiki/XPath) - XPath (XML Path Language) is a query language for selecting nodes from an XML document. [Using Xpath Exploration](https://www.distilled.net/blog/distilled/guide-to-google-docs-importxml/#chapter2)
+* [LINQ](https://en.wikipedia.org/wiki/Language_Integrated_Query) - Language Integrated Query (LINQ, pronounced "link") is a Microsoft .NET Framework component that adds native data querying capabilities to .NET languages.
+
 Dealing with these structures in Grasshopper can be difficult.  Many plugins have given this a try (Ghowl, Lunchbox, Elefront, GH Key/Value component, Visual Arq 2, Geometry Gym IFC, Archicad plugins). While each has some good ideas, the various plugins do not seem to work well together.  
 
 What does it take to have a minimal Key Value command set?
